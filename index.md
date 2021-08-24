@@ -20,4 +20,4 @@
 
 ## Contacts / Контакты
 
-e-mail / адрес эл.почты: shatova_app@mail.ru
+e-mail : shatova_app@mail.ru
